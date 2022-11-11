@@ -1,10 +1,10 @@
 {
- "nome: "Francesco",
+ "Nome": "Francesco" 
 "Cognome": "Rossi",
-"Codicefiscale" "Gnlca1999rssiNa",
+"Codicefiscale": "Gnlca1999rssiNa",
 },
 "Altro":{
-"Telefono" "12456789",
+"Telefono": "12456789",
 "URL": "https://www.fortnite.com/",
 "versione": "v22.40",
 
